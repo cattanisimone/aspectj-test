@@ -1,0 +1,9 @@
+[v] file di logback importato
+[v] verificare precedence
+[ ] rivedere documentazione/presentazione -> AUDIT advice
+[v] fare import di prometheus
+[ ] doppio around con modifica argomenti
+
+
+NOTE
+ -  APM -> elastic sta facendo la sua soluzione -> versione easy

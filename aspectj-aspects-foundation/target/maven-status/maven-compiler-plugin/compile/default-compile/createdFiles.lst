@@ -1,0 +1,10 @@
+it/cattanisimone/aspectj/aspects/foundation/annotation/time/Lock.class
+it/cattanisimone/aspectj/aspects/foundation/utils/LogUtils.class
+it/cattanisimone/aspectj/aspects/foundation/annotation/Monitored.class
+it/cattanisimone/aspectj/aspects/foundation/annotation/track/Tenant.class
+it/cattanisimone/aspectj/aspects/foundation/annotation/audit/UserGroups.class
+it/cattanisimone/aspectj/aspects/foundation/annotation/audit/UserTenant.class
+it/cattanisimone/aspectj/aspects/foundation/annotation/audit/UserName.class
+it/cattanisimone/aspectj/aspects/foundation/utils/TrackUtils.class
+it/cattanisimone/aspectj/aspects/foundation/annotation/track/TrackId.class
+it/cattanisimone/aspectj/aspects/foundation/annotation/time/Ts.class

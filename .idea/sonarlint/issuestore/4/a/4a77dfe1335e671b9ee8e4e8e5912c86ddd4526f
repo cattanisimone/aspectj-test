@@ -1,0 +1,6 @@
+
+Gsquid:S1172"&Remove these unused method parameters.(ëèÙ¶ùÿÿÿÿ8•Üİè¨,
+ƒsquid:UselessImportCheck"[Remove this unused import 'it.cattanisimone.aspectj.aspects.foundation.annotation.time.Ts'.(‚¨ñ8ÿßÉè¨,
+asquid:UselessImportCheck"3Remove this unused import 'org.joda.time.DateTime'.(×¥…©úÿÿÿÿ8¶ıÅè¨,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÈÙ‚‘øÿÿÿÿ8ÛÃè¨,
+‹squid:UselessImportCheck"]Remove this unused import 'it.cattanisimone.aspectj.aspects.foundation.annotation.time.Lock'.(ŸÊ×¥ùÿÿÿÿ8ÿ¹Ìè¨,

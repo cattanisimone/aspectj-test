@@ -1,0 +1,14 @@
+-Xajruntimetarget:1.5
+-1.8
+-encoding
+UTF-8
+-classpath
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/target/aspectj-aspects-foundation-1.0-SNAPSHOT.jar:/Users/cattanisimone/.m2/repository/org/aspectj/aspectjrt/1.8.13/aspectjrt-1.8.13.jar:/Users/cattanisimone/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/cattanisimone/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/cattanisimone/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/cattanisimone/.m2/repository/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar:/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/target/classes
+-d
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/target/classes
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/src/main/aspect/it/cattanisimone/aspecj/aspects/core/MonitoringAspect.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/src/main/aspect/it/cattanisimone/aspecj/aspects/core/coordination/CoordinationSortingAspect.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/src/main/aspect/it/cattanisimone/aspecj/aspects/core/TrackingAspect.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/src/main/aspect/it/cattanisimone/aspecj/aspects/core/pointcut/Pointcuts.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/src/main/aspect/it/cattanisimone/aspecj/aspects/core/TimeAspect.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-core/src/main/aspect/it/cattanisimone/aspecj/aspects/core/AuditingAspect.java

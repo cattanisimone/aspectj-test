@@ -1,0 +1,13 @@
+
+[squid:S1161":Add the "@Override" annotation above this method signature(öÒÆ¢ıÿÿÿÿ8âï°ƒ©,
+8squid:S1643"Use a StringBuilder instead.(Ô—ªù8„ê¨,
+=squid:S1643"Use a StringBuilder instead.(¯¬§Àüÿÿÿÿ8„ê¨,
+8squid:S1643"Use a StringBuilder instead.(¬Ó—¾8—Ğ–ê¨,
+=squid:S1643"Use a StringBuilder instead.(Ì£áØıÿÿÿÿ8—Ğ–ê¨,
+=squid:S1643"Use a StringBuilder instead.(Èó±°ûÿÿÿÿ8„ê¨,
+=squid:S1643"Use a StringBuilder instead.(Ê‰Óµıÿÿÿÿ8„ê¨,
+=squid:S1643"Use a StringBuilder instead.(³ÔÂşÿÿÿÿ8—Ğ–ê¨,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öÒÆ¢ıÿÿÿÿ8„ê¨,
+=squid:S1643"Use a StringBuilder instead.( ˆÉêüÿÿÿÿ8—Ğ–ê¨,
+8squid:S1643"Use a StringBuilder instead.(©Éõ8—Ğ–ê¨,
+8squid:S1643"Use a StringBuilder instead.(Û±ÂÀ8„ê¨,

@@ -1,0 +1,10 @@
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/track/TrackId.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/Monitored.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/time/Ts.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/audit/UserName.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/audit/UserTenant.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/track/Tenant.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/audit/UserGroups.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/annotation/time/Lock.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/utils/TrackUtils.java
+/Users/cattanisimone/Dropbox/sandbox/aspectj-pure/aspectj-aspects-foundation/src/main/java/it/cattanisimone/aspectj/aspects/foundation/utils/LogUtils.java
